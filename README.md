@@ -5,7 +5,7 @@ The game tests how well you can remember and repeat an ever-growing color patter
 
 🚀 Live Demo
 
-🔗 Play the Game: Add your GitHub Pages link here once working
+🔗 Play the Game:https://jagan00002.github.io/SimonSaysGameFinal/
 
 📌 Features
 
